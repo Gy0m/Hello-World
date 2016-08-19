@@ -1,2 +1,6 @@
 # Hello-World
-Hello World Project
+
+Hi World,
+
+I start programming courses at the wild code school in the Lab'O "Orleans"
+Now let's work and have fun !
