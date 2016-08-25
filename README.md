@@ -2,5 +2,5 @@
 
 Hi World,
 
-I start programming courses at the wild code school
+I learn programmation at the Wild Code School,
 Now let's code and have fun !
